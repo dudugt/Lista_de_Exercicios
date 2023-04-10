@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Exercicios_notas/1.0.0": {
+        "runtime": {
+          "Exercicios_notas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicios_notas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

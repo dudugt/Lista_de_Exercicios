@@ -1,0 +1,15 @@
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_senha\bin\Debug\net7.0\Exercicios_senha.exe
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_senha\bin\Debug\net7.0\Exercicios_senha.deps.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_senha\bin\Debug\net7.0\Exercicios_senha.runtimeconfig.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_senha\bin\Debug\net7.0\Exercicios_senha.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_senha\bin\Debug\net7.0\Exercicios_senha.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_senha\obj\Debug\net7.0\Exercicios_senha.csproj.AssemblyReference.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_senha\obj\Debug\net7.0\Exercicios_senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_senha\obj\Debug\net7.0\Exercicios_senha.AssemblyInfoInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_senha\obj\Debug\net7.0\Exercicios_senha.AssemblyInfo.cs
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_senha\obj\Debug\net7.0\Exercicios_senha.csproj.CoreCompileInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_senha\obj\Debug\net7.0\Exercicios_senha.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_senha\obj\Debug\net7.0\refint\Exercicios_senha.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_senha\obj\Debug\net7.0\Exercicios_senha.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_senha\obj\Debug\net7.0\Exercicios_senha.genruntimeconfig.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_senha\obj\Debug\net7.0\ref\Exercicios_senha.dll

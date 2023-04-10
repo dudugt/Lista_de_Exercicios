@@ -1,0 +1,15 @@
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_notas\bin\Debug\net7.0\Exercicios_notas.exe
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_notas\bin\Debug\net7.0\Exercicios_notas.deps.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_notas\bin\Debug\net7.0\Exercicios_notas.runtimeconfig.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_notas\bin\Debug\net7.0\Exercicios_notas.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_notas\bin\Debug\net7.0\Exercicios_notas.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_notas\obj\Debug\net7.0\Exercicios_notas.csproj.AssemblyReference.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_notas\obj\Debug\net7.0\Exercicios_notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_notas\obj\Debug\net7.0\Exercicios_notas.AssemblyInfoInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_notas\obj\Debug\net7.0\Exercicios_notas.AssemblyInfo.cs
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_notas\obj\Debug\net7.0\Exercicios_notas.csproj.CoreCompileInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_notas\obj\Debug\net7.0\Exercicios_notas.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_notas\obj\Debug\net7.0\refint\Exercicios_notas.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_notas\obj\Debug\net7.0\Exercicios_notas.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_notas\obj\Debug\net7.0\Exercicios_notas.genruntimeconfig.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_notas\obj\Debug\net7.0\ref\Exercicios_notas.dll

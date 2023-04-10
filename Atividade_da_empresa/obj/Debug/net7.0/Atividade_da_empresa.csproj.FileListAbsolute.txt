@@ -1,0 +1,15 @@
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_extra\Atividade_da_empresa\bin\Debug\net7.0\Atividade_da_empresa.exe
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_extra\Atividade_da_empresa\bin\Debug\net7.0\Atividade_da_empresa.deps.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_extra\Atividade_da_empresa\bin\Debug\net7.0\Atividade_da_empresa.runtimeconfig.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_extra\Atividade_da_empresa\bin\Debug\net7.0\Atividade_da_empresa.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_extra\Atividade_da_empresa\bin\Debug\net7.0\Atividade_da_empresa.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_extra\Atividade_da_empresa\obj\Debug\net7.0\Atividade_da_empresa.csproj.AssemblyReference.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_extra\Atividade_da_empresa\obj\Debug\net7.0\Atividade_da_empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_extra\Atividade_da_empresa\obj\Debug\net7.0\Atividade_da_empresa.AssemblyInfoInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_extra\Atividade_da_empresa\obj\Debug\net7.0\Atividade_da_empresa.AssemblyInfo.cs
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_extra\Atividade_da_empresa\obj\Debug\net7.0\Atividade_da_empresa.csproj.CoreCompileInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_extra\Atividade_da_empresa\obj\Debug\net7.0\Atividade_da_empresa.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_extra\Atividade_da_empresa\obj\Debug\net7.0\refint\Atividade_da_empresa.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_extra\Atividade_da_empresa\obj\Debug\net7.0\Atividade_da_empresa.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_extra\Atividade_da_empresa\obj\Debug\net7.0\Atividade_da_empresa.genruntimeconfig.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_extra\Atividade_da_empresa\obj\Debug\net7.0\ref\Atividade_da_empresa.dll

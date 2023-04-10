@@ -1,0 +1,15 @@
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_tabuada\bin\Debug\net7.0\Exercicios_tabuada.exe
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_tabuada\bin\Debug\net7.0\Exercicios_tabuada.deps.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_tabuada\bin\Debug\net7.0\Exercicios_tabuada.runtimeconfig.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_tabuada\bin\Debug\net7.0\Exercicios_tabuada.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_tabuada\bin\Debug\net7.0\Exercicios_tabuada.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_tabuada\obj\Debug\net7.0\Exercicios_tabuada.csproj.AssemblyReference.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_tabuada\obj\Debug\net7.0\Exercicios_tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_tabuada\obj\Debug\net7.0\Exercicios_tabuada.AssemblyInfoInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_tabuada\obj\Debug\net7.0\Exercicios_tabuada.AssemblyInfo.cs
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_tabuada\obj\Debug\net7.0\Exercicios_tabuada.csproj.CoreCompileInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_tabuada\obj\Debug\net7.0\Exercicios_tabuada.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_tabuada\obj\Debug\net7.0\refint\Exercicios_tabuada.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_tabuada\obj\Debug\net7.0\Exercicios_tabuada.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_tabuada\obj\Debug\net7.0\Exercicios_tabuada.genruntimeconfig.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividades_C#\Exercicios_tabuada\obj\Debug\net7.0\ref\Exercicios_tabuada.dll
